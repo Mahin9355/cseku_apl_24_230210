@@ -14,13 +14,13 @@ The Hospital Management System is designed to manage the operations of a hospita
 ---
 
 ## Project Structure
-
+```
 hospital-management-system/
-│
-├── src/
-│   ├── IPatientManagement.java
-│   ├── IStaffManagement.java
-│   ├── IAppointmentManagement.java
+|
+| ── src/
+|   ├── IPatientManagement.java
+|   ├── IStaffManagement.java
+|   ├── IAppointmentManagement.java
 │   ├── IBillingManagement.java
 │   ├── Patient.java
 │   ├── Staff.java
@@ -34,13 +34,10 @@ hospital-management-system/
 │   ├── BillingManagement.java
 │   └── Main.java
 │
-├── bin/
-│   └── (compiled .class files)
-│
 ├── README.md
 └── .gitignore
 
-
+```
 ---
 
 ## System Design
